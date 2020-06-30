@@ -1,0 +1,13 @@
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.exe
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.deps.json
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.runtimeconfig.json
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.runtimeconfig.dev.json
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.dll
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\bin\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.pdb
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.csprojAssemblyReference.cache
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.AssemblyInfoInputs.cache
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.AssemblyInfo.cs
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.dll
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.pdb
+C:\Users\zhaoy\codecamp2020\visual_studio\Ch4-Studio-RestaurantMenu\Ch4-Studio-RestaurantMenu\obj\Debug\netcoreapp3.1\Ch4-Studio-RestaurantMenu.genruntimeconfig.cache
