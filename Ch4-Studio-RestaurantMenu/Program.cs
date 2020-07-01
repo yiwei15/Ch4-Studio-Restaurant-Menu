@@ -24,10 +24,45 @@ namespace Ch4_Studio_RestaurantMenu
 
             Menu menu1 = new Menu(itemList, updatedDate);
 
-            Console.WriteLine(menu1.MenuItems[0].Name + " is new: " + menu1.MenuItems[0].IsNew);
-            Console.WriteLine("menue updated at: " + menu1.UpdatedDate);
-            Console.WriteLine(menu1.MenuItems[1].Name + " is new: " + menu1.MenuItems[1].IsNew);
+            //Console.WriteLine(menu1.MenuItems[0].Name + " is new: " + menu1.MenuItems[0].IsNew);
+            //Console.WriteLine("menu updated at: " + menu1.UpdatedDate);
+            //Console.WriteLine(menu1.MenuItems[1].Name + " is new: " + menu1.MenuItems[1].IsNew);
 
+            //Add one menu item:
+            MenuItem newItem = new MenuItem("Tiramisu", 7.29, "The classic Italian dessert. A layer of creamy custard set atop espresso-soaked ladyfingers.", "Dessert", DateTime.Today);
+            menu1.Add(newItem);
+
+            //Remove one menu item:
+            menu1.Remove(newItem);
+
+            //Tell if a menu item is new:
+            Console.WriteLine("******* if a menu item is new *******");
+            Console.WriteLine(menu1.MenuItems[1].IsNew);
+
+            //Tell when the menu was last updated
+            Console.WriteLine("******* last updated date *******");
+            Console.WriteLine(menu1.UpdatedDate);
+
+            //Print out a single menu item, what is the different between below two statements?
+            Console.WriteLine(item1.ToString());
+            Console.WriteLine(item2);
+
+            //Print out the entire menu
+            menu1.PrintMenu(menu1);
+
+            //Whether or not two menu items are equal
+            Console.WriteLine(item1.Equals(item2));
+            MenuItem item3 = item1;
+            Console.WriteLine(item1.Equals(item3));
+            MenuItem item4 = new MenuItem("Copy of Shrimp Scampi Fritta", 10.49, "Lightly breaded, fried and tossed in our signature scampi sauce.", "Dessert", new DateTime(2010, 6, 25, 0, 0, 0));
+            Console.WriteLine(item1.Equals(item4));
+
+            //Bonus:  if a user tries to add an item that is already on the menu
+
+            MenuItem item5 = new MenuItem("Shrimp Scampi Fritta", 20.49, "Lightly breaded, fried and tossed in our signature scampi sauce.", "Appetizer", new DateTime(2020, 6, 25, 0, 0, 0));
+            menu1.Add(item5);
+            menu1.PrintMenu(menu1);
+        
         }
     }
 }
